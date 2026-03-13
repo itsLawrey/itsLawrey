@@ -1,14 +1,19 @@
-## Hi there, I'm Lawrey 👋
+# Loránd Dallos
 
-I'm a passionate developer who loves building things and learning new technologies. Welcome to my GitHub profile!
+MSc Computer Science student at the University of Freiburg specializing in Python backend development and machine learning pipelines. 
 
-- 🔭 I'm currently working on exciting personal projects
-- 🌱 I'm currently learning and growing my skills every day
-- 👯 I'm looking to collaborate on open-source projects
-- 💬 Ask me about anything — I'm happy to help!
-- 📫 How to reach me: check out my repositories and feel free to open an issue or discussion
-- ⚡ Fun fact: I believe great code tells a story
+### Core Competencies
 
----
+* **Computer Vision & AI:** Architecting automated analysis pipelines, deploying object detection models, and handling time-series evaluation (YOLOv8, TensorFlow, OpenCV).
+* **Backend Engineering:** Extending enterprise architectures, managing relational databases, and writing custom API modules (Python, Odoo ORM).
+* **Application Development:** Building offline-first, state-driven, cross-platform applications with robust local storage architectures (Flutter, Dart, C#, Blazor).
 
-Thanks for stopping by! Feel free to explore my repositories. 🚀
+### Current Focus
+
+* Completing MSc coursework in Computer Science.
+* Side projects when time allows.
+
+### Connect
+
+* [Digital Portfolio](https://itslawrey.github.io/)
+* [LinkedIn](https://www.linkedin.com/in/lorand-dallos/)
